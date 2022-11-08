@@ -1,3 +1,3 @@
-# ex3-template-22
+# ex3 javascript
 
 # Authors:
