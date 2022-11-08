@@ -45,9 +45,7 @@ function convertErrorsToHtml(listOfErrors) {
  * This function updates the HTML displaying the list of products.
  * @param html
  */
-function displayProducts(html) {
-    document.getElementById("productsTable").innerHTML = html;
-}
+const displayProducts = (html) => { document.getElementById("productsTable").innerHTML = html; }
 
 /**
  * upon loading the page, we bind handlers to the form and the button
