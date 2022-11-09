@@ -39,7 +39,8 @@ function convertErrorsToHtml(listOfErrors) {
 
 
 
-// you may move but not modify the code below this line
+// you may move but not modify the code below this line, except for renaming the functions to be implemented
+// in case you need to.
 
 /**
  * This function updates the HTML displaying the list of products.
